@@ -2,12 +2,16 @@
 
 ZIMS is a play-to-earn gaming platform, that allows users to play arcade games (Tetris, Brick Breaker, Hangman, Floppy Bird) or click actions buttons (Work, Volunteer, Meditate, Shower, Workout and Party) to earn points, which can then be used to mint NFT's.
 
-![screenshot](https://github.com/ehp2021/zims/blob/main/screenshot1.png)
-![screenshot](https://github.com/ehp2021/zims/blob/main/screenshot2.png)
+<!-- ![screenshot](https://github.com/ehp2021/zims/blob/main/screenshot1.png)
+![screenshot](https://github.com/ehp2021/zims/blob/main/screenshot2.png) -->
 
 ## Demo video:
 
-https://user-images.githubusercontent.com/86314106/146078191-68df448e-8f59-42d7-845c-d8b227501608.mp4
+
+https://user-images.githubusercontent.com/86314106/146080605-128863c8-4a1e-4708-a8d8-61045338addf.mp4
+
+
+<!-- https://user-images.githubusercontent.com/86314106/146078191-68df448e-8f59-42d7-845c-d8b227501608.mp4 -->
 
 <!-- 
 Check out our full demo video here: </br>
