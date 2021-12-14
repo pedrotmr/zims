@@ -5,7 +5,7 @@ ZIMS is a play-to-earn gaming platform, that allows users to play arcade games (
 ![screenshot](https://github.com/ehp2021/zims/blob/main/screenshot1.png)
 ![screenshot](https://github.com/ehp2021/zims/blob/main/screenshot2.png)
 
-Check out our full demo video here: </br>
+## Demo video:
 
 https://user-images.githubusercontent.com/86314106/146078191-68df448e-8f59-42d7-845c-d8b227501608.mp4
 
